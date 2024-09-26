@@ -1,0 +1,26 @@
+.Drag
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #73EC8B;
+    padding: 2%;
+    margin:1%;
+    border-radius: 1.5rem;
+    cursor: pointer;
+   
+}
+.Drop
+{
+    width:250px;
+    background-color: #f8f8f8;
+    width:100%
+}
+.image
+{
+  width: 8%;
+  border-radius: 0.5rem;
+}
+
+
+
